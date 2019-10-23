@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/owo.dir/main.cpp.o CMakeFiles/owo.dir/alumno.cpp.o CMakeFiles/owo.dir/profesor.cpp.o CMakeFiles/owo.dir/seccion.cpp.o  -o owo 

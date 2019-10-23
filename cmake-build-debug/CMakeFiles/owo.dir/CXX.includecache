@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/utec/Descargas/Mat/owo/alumno.h
+type.h
+/home/utec/Descargas/Mat/owo/type.h
+
+/home/utec/Descargas/Mat/owo/main.cpp
+iostream
+-
+alumno.h
+/home/utec/Descargas/Mat/owo/alumno.h
+seccion.h
+/home/utec/Descargas/Mat/owo/seccion.h
+
+/home/utec/Descargas/Mat/owo/seccion.cpp
+seccion.h
+/home/utec/Descargas/Mat/owo/seccion.h
+iostream
+-
+
+/home/utec/Descargas/Mat/owo/seccion.h
+type.h
+/home/utec/Descargas/Mat/owo/type.h
+alumno.h
+/home/utec/Descargas/Mat/owo/alumno.h
+
+/home/utec/Descargas/Mat/owo/type.h
+string
+-
+
